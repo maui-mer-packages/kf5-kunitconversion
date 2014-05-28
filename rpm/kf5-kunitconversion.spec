@@ -56,6 +56,7 @@ that use %{name}.
 
 %build
 # >> build pre
+%kf5_make
 # << build pre
 
 
@@ -65,6 +66,7 @@ that use %{name}.
 %install
 rm -rf %{buildroot}
 # >> install pre
+%kf5_make_install
 # << install pre
 
 # >> install post
