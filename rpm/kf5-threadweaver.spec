@@ -27,6 +27,7 @@ BuildRequires:  extra-cmake-modules
 BuildRequires:  qt5-tools
 BuildRequires:  kf5-ki18n-devel
 BuildRequires:  kf5-kconfig-devel
+BuildRequires:  gettext
 
 
 %description

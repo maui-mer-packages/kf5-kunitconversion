@@ -27,6 +27,7 @@ PkgBR:
     - qt5-tools
     - kf5-ki18n-devel
     - kf5-kconfig-devel
+    - gettext
 PkgConfigBR:
     - Qt5Core
     - Qt5Xml
